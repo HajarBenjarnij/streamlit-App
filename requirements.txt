@@ -22,6 +22,5 @@ geopandas
 datetime
 shapely
 emoji
-email
 xarray
 regionmask
