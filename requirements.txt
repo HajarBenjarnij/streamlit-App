@@ -17,7 +17,6 @@ numpy
 pandas
 pykrige
 matplotlib
-basemap-data-hires==1.2.2=0
 Basemap
 geopandas
 datetime
