@@ -1,0 +1,65 @@
+div.css-demzbm{
+
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgba(102, 195, 231, 0.658);
+    border-radius: 100%;
+    border-style: none;
+    box-shadow: none;
+    display: flex;
+    height: 0.75rem;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 0.75rem;
+}
+div.css-10y5sf6{
+    font-family: "Source Code Pro", monospace;
+    font-size: 14px;
+    padding-bottom: 9.33333px;
+    color: rgb(18, 73, 95);
+    top: -22px;
+    position: absolute;
+    white-space: nowrap;
+    background-color: transparent;
+    line-height: 1.6;
+    font-weight: normal;
+}
+
+
+
+.st-e6:focus {
+    background: rgb(86, 8, 158);
+}
+
+.css-fblp2m {
+    vertical-align: middle;
+    overflow: hidden;
+    color: skyblue;
+    fill: currentcolor;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-size: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+}
+
+.st-cn:focus {
+    background: rgb(221, 245, 245);
+}
+
+.st-cm:focus {
+    color: rgb(107, 164, 240);
+}
+
+.st-fg {
+    border-bottom-color: rgb(230, 234, 241);
+    background-color: rgb(230, 234, 241);
+    
+}
+
+div.css-1spulft {
+    width: 290px;
+    position: relative;
+    border: 1px solid black;
+}
