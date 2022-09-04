@@ -17,7 +17,8 @@ numpy
 pandas
 pykrige
 matplotlib
-mpl_toolkits
+basemap-data-hires=1.2.2=0
+Basemap
 geopandas
 datetime
 shapely
